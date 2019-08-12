@@ -1,4 +1,5 @@
 <?php
+  include_once("Expiravel.php");
   include_once("Produto.php");
   include_once("Assinatura.php");
 

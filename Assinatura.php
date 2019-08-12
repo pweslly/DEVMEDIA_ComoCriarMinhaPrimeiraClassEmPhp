@@ -1,6 +1,6 @@
 <?php
 
-class Assinatura extends Produto {
+class Assinatura extends Produto implements Expiravel{
 
   private $dataExpiracao;
 
